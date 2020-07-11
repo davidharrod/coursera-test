@@ -78,18 +78,21 @@ p{
 #Chicken{
 	margin-bottom: 20px;
 	margin-left: 2%;
+	margin-right: 2%;
 	background-color: grey;
 }
 
 #Beef{
 	margin-bottom: 20px;
 	margin-left: 2%;
+	margin-right: 2%;
 	background-color: grey;
 }
 
 #Sushi{
-	margin-left: 2%;
 	margin-bottom: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
 	background-color: grey;
 }
 
@@ -124,7 +127,7 @@ html{
 	.col-lg-4{
 		float: left;
 		border: 1px solid white;
-		width: 31.33%;
+		width: 29.33%;
 }
 }
 
@@ -135,10 +138,10 @@ html{
 		border: 1px solid white;
 }
 	.col-md-6{
-		width: 48%;
+		width: 46%;
 }
 	.col-md-12{
-		width: 98%;
+		width: 96%;
 }
 }
 
